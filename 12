@@ -1,0 +1,20 @@
+{
+    "name": "T-Shirt (Acid Wash)",
+    "description": "All cotton classic ElmonX t-shirt with printed logo on front.This style was specially washed which creates a unique fade from garment to garment. The unique differences add to the character of the piece. Each garment fade is unique.",
+    "image": "ipfs://QmcatsuPzrpigABk4YYxP7EbHuzvWyZUPmshyKCVehUk2N",
+    "animation_url": "ipfs://QmXSRQrBp2P8Qz19xJVeDE66iKrngBAFFp1hFUGcPXDLN5",
+    "attributes": [
+        {
+            "trait_type": "Artist",
+            "value": "ElmonX"
+        },
+        {
+            "trait_type": "Artwork",
+            "value": "ElmonX"
+        },
+        {
+            "trait_type": "Color",
+            "value": "Acid Wash"
+        }
+    ]
+}

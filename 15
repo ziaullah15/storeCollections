@@ -1,0 +1,16 @@
+{
+    "name": "X Pendant Necklace",
+    "description": ".925 Silver with White Gold Plating. 15MM 'X' Pendant. .925 18 + 2 Anchor Chain. Limited to 100 Editions.",
+    "image": "ipfs://QmPJYnLCH68UawuDaL7rf4VBCpsR6ez19jyAhuqFDEcnWR",
+    "animation_url": "ipfs://QmVb9XQ8fCVvFrrEoG23e1hjdLVoY1g26ZjxBegihvBB7Z",
+    "attributes": [
+        {
+            "trait_type": "Artist",
+            "value": "ElmonX"
+        },
+        {
+            "trait_type": "Artwork",
+            "value": "X Pendant Necklace"
+        }
+    ]
+}

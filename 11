@@ -1,0 +1,20 @@
+{
+    "name": "Beanie (White)",
+    "description": "Oversized fold-over beanie",
+    "image": "ipfs://QmYZb3kQKKf9huWSm8DfyQv8B5y1fRx7B78AzAEg9iZ1ac",
+    "animation_url": "ipfs://QmZ2wwuRPKA5PDdXwnH28mAAbQkSwSpadmYvimEr6ViFyg",
+    "attributes": [
+        {
+            "trait_type": "Artist",
+            "value": "ElmonX"
+        },
+        {
+            "trait_type": "Artwork",
+            "value": "Beanie"
+        },
+        {
+            "trait_type": "Color",
+            "value": "White"
+        }
+    ]
+}

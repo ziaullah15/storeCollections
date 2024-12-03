@@ -1,0 +1,20 @@
+{
+    "name": "T-Shirt (Vintage Wash)",
+    "description": "All cotton classic ElmonX t-shirt with printed logo on front.",
+    "image": "ipfs://QmSMvUbzmVgdTfHxHnfjmTz59umZDJd8ZkFoefWAzMGS2N",
+    "animation_url": "ipfs://QmPTiEHUbH4yMh5P3J9YwBxyicicGpYrVWVddncQBvDbFb",
+    "attributes": [
+        {
+            "trait_type": "Artist",
+            "value": "ElmonX"
+        },
+        {
+            "trait_type": "Artwork",
+            "value": "ElmonX"
+        },
+        {
+            "trait_type": "Color",
+            "value": "Vintage Wash"
+        }
+    ]
+}

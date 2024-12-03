@@ -1,0 +1,20 @@
+{
+    "name": "Beanie (Grey)",
+    "description": "Oversized fold-over beanie",
+    "image": "ipfs://QmWpuUyUA7ktFqqcpfhqMH67qneKXCCQbwLZSY9HUX4Ydn",
+    "animation_url": "ipfs://QmNcPQ7aAaR779bQmfZC4p4C1KEvBAs4yP2ypk3b7dQwz7",
+    "attributes": [
+        {
+            "trait_type": "Artist",
+            "value": "ElmonX"
+        },
+        {
+            "trait_type": "Artwork",
+            "value": "Beanie"
+        },
+        {
+            "trait_type": "Color",
+            "value": "Grey"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "name": "T-Shirt (Black)",
+    "description": "All cotton classic ElmonX t-shirt with printed logo on front.",
+    "image": "ipfs://QmZbNgA4N6ZbuK5gtv4vKN3Tr624U2HaYMBupH9YPSD4kF",
+    "animation_url": "ipfs://QmY26WEH7FGDsPisfuuJLJzgPvH4j1SbzrneU8qSoqwFEE",
+    "attributes": [
+        {
+            "trait_type": "Artist",
+            "value": "ElmonX"
+        },
+        {
+            "trait_type": "Artwork",
+            "value": "ElmonX"
+        },
+        {
+            "trait_type": "Color",
+            "value": "Black"
+        }
+    ]
+}
