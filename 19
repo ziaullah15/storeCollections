@@ -1,0 +1,20 @@
+{
+    "name": "ElmonX Cap",
+    "description": "Embroidered logo's on the front and back with clasp strap.",
+    "image": "ipfs://QmZndFBktY14T8kYXyvZpA1VXCuUC7SFCRuud37MzYqDUm",
+    "animation_url": "ipfs://QmfA51PUurAc4Th53EnjkXvqqRTsTcE4hC8qccbQmZewce",
+    "attributes": [
+        {
+            "trait_type": "Artist",
+            "value": "ElmonX"
+        },
+        {
+            "trait_type": "Artwork",
+            "value": "ElmonX Cap"
+        },
+        {
+            "trait_type": "Color",
+            "value": "Black"
+        }
+    ]
+}
