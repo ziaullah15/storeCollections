@@ -1,8 +1,8 @@
 {
-    "name": "T-Shirt (Acid Wash)",
-    "description": "All cotton classic ElmonX t-shirt with printed logo on front.This style was specially washed which creates a unique fade from garment to garment. The unique differences add to the character of the piece. Each garment fade is unique.",
-    "image": "ipfs://Qmd6xak4uAud5PHf4Y6cifjcpZ37uddrHXp6uDrFyjGgnZ",
-    "animation_url": "ipfs://QmZJ95U6dscUsAjUF7JQG9ykTj9cxgyBV48yhm3v57EegG",
+    "name": "Perforated X Hoodie",
+    "description": "French terry organic cotton relaxed heavyweight 420gsm hoodie with pouch pocket. Perforated Logo at the back.",
+    "image": "ipfs://QmbDWX8dB1asowzAxEfGmoQptAMAPP6V8o14Nu88GK5R3d",
+    "animation_url": "ipfs://QmRGVU1rRAAMy94aepXSBxDzeBXvyTkt9FBL9ehKQbNmMg",
     "attributes": [
         {
             "trait_type": "Artist",
@@ -10,11 +10,11 @@
         },
         {
             "trait_type": "Artwork",
-            "value": "ElmonX"
+            "value": "Perforated X Hoodie"
         },
         {
             "trait_type": "Color",
-            "value": "Acid Wash"
+            "value": "Black"
         }
     ]
 }
