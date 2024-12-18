@@ -1,16 +1,16 @@
 {
-    "name": "Perforated X Hoodie",
-    "description": "French terry organic cotton relaxed heavyweight 420gsm hoodie with pouch pocket. Perforated Logo at the back.",
-    "image": "ipfs://QmbDWX8dB1asowzAxEfGmoQptAMAPP6V8o14Nu88GK5R3d",
-    "animation_url": "ipfs://QmRGVU1rRAAMy94aepXSBxDzeBXvyTkt9FBL9ehKQbNmMg",
+    "name": "Boy Soldier T-Shirt (Black)",
+    "description": "All cotton classic ElmonX t-shirt with printed Boy Soldier character on front.",
+    "image": "ipfs://QmYyMQrf4fYb4C7fxjQuCp3xLn46mwzaHxtuoYshnQGDxz",
+    "animation_url": "ipfs://Qmf2GAg3J1196b7gcsmD9LAL8TSpJzbTVerGAnDAzV7C6Z",
     "attributes": [
         {
             "trait_type": "Artist",
-            "value": "ElmonX"
+            "value": "Schoony"
         },
         {
             "trait_type": "Artwork",
-            "value": "Perforated X Hoodie"
+            "value": "Boy Soldier"
         },
         {
             "trait_type": "Color",
