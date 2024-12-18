@@ -1,8 +1,8 @@
 {
-    "name": "T-Shirt (Black)",
-    "description": "All cotton classic ElmonX t-shirt with printed logo on front.",
-    "image": "ipfs://Qmd6xak4uAud5PHf4Y6cifjcpZ37uddrHXp6uDrFyjGgnZ",
-    "animation_url": "ipfs://QmZJ95U6dscUsAjUF7JQG9ykTj9cxgyBV48yhm3v57EegG",
+    "name": "ElmonX Cap",
+    "description": "Embroidered logo's on the front and back with clasp strap.",
+    "image": "ipfs://QmZndFBktY14T8kYXyvZpA1VXCuUC7SFCRuud37MzYqDUm",
+    "animation_url": "ipfs://QmfA51PUurAc4Th53EnjkXvqqRTsTcE4hC8qccbQmZewce",
     "attributes": [
         {
             "trait_type": "Artist",
@@ -10,7 +10,7 @@
         },
         {
             "trait_type": "Artwork",
-            "value": "ElmonX"
+            "value": "ElmonX Cap"
         },
         {
             "trait_type": "Color",
