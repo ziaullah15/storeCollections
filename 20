@@ -1,1 +1,10 @@
-
+{
+    "name": "Coming Soon",
+    "description": "Coming Soon",
+    "attributes": [
+        {
+            "trait_type": "Artwork",
+            "value": "Coming Soon"
+        }
+    ]
+}
