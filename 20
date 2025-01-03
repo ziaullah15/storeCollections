@@ -1,10 +1,16 @@
 {
-    "name": "Coming Soon",
-    "description": "Coming Soon",
+    "name": "X Plushie",
+    "description": "Ultra-soft material. Includes a woven ElmonX seam tag and a 6-inch satin dustbag.",
+    "image": "ipfs://QmPDXFHwmHE4Dp7ucfX1kkAYfQYd61m9T6Sow1eQ8HRuDT",
+    "animation_url": "ipfs://QmY5bZ5PXwJA5WYJsoFLTcz6oxLgPkWJvYZJxMSMyiBnx1",
     "attributes": [
         {
+            "trait_type": "Artist",
+            "value": "ElmonX"
+        },
+        {
             "trait_type": "Artwork",
-            "value": "Coming Soon"
+            "value": "Plushie"
         }
     ]
 }
