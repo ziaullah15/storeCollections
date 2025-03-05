@@ -1,10 +1,20 @@
 {
-    "name": "Coming Soon",
-    "description": "Coming Soon",
+    "name": "ElmonX Quest Coin",
+    "description": "Congratulations! You've successfully hunted down and discovered the Quest Coin in the ElmonX Quest game beta. As a reward for your achievement, an exclusive collectible ElmonX Coin has been airdropped to you!",
+    "image": "ipfs://bafybeifxfgwbzbmwmrhzwrzsyhdam4f35233jtygupkkzfjtoeihn5zew4",
+    "animation_url": "ipfs://bafybeieka5y3arzi6qqdrsaxfolobagheuhyc7m2wrovenwlfylrlwxvru",
     "attributes": [
         {
+            "trait_type": "Artist",
+            "value": "ElmonX"
+        },
+        {
             "trait_type": "Artwork",
-            "value": "Coming Soon"
+            "value": "ElmonX Quest Coin"
+        },
+        {
+            "trait_type": "Medium",
+            "value": "Coin"
         }
     ]
 }
