@@ -1,6 +1,6 @@
 {
-    "name": "ElmonX NFGO Coin",
-    "description": "Congratulations! You've successfully hunted down and discovered the coin in the NFGO game beta. As a reward for your achievement, an exclusive collectible ElmonX Coin has been airdropped to you!",
+    "name": "ElmonX GO Coin",
+    "description": "Congratulations! You've successfully hunted down and discovered the coin in the ElmonX Go game beta. As a reward for your achievement, an exclusive collectible ElmonX Coin has been airdropped to you!",
     "image": "ipfs://bafybeifxfgwbzbmwmrhzwrzsyhdam4f35233jtygupkkzfjtoeihn5zew4",
     "animation_url": "ipfs://bafybeieka5y3arzi6qqdrsaxfolobagheuhyc7m2wrovenwlfylrlwxvru",
     "attributes": [
@@ -10,7 +10,7 @@
         },
         {
             "trait_type": "Artwork",
-            "value": "ElmonX NFGO Coin"
+            "value": "ElmonX GO Coin"
         },
         {
             "trait_type": "Medium",
