@@ -1,0 +1,16 @@
+{
+    "name": "Hot Sauce",
+    "description": "A digital twin for your hot sauce. Limited to 40 bottle worldwide, straight from the Gates of Hell! ",
+    "image": "",
+    "animation_url": "ipfs://bafybeifsp5q5j5huw2fwx5m3qihkyrurcrgwbmwixbyclvaclyo2qoruzy",
+    "attributes": [
+        {
+            "trait_type": "Artist",
+            "value": "ElmonX"
+        },
+        {
+            "trait_type": "Artwork",
+            "value": "Hot Sauce"
+        }
+    ]
+}
